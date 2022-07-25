@@ -1,0 +1,125 @@
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+  /* height: 70%; */
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5 ;
+
+}
+
+button {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* Navigation bar */
+
+.navbar{
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+/* Download buttons */
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* features section */
+
+.features-list{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.features-item{
+  padding: 5%;
+
+}
+
+.features-image{
+  padding:10px;
+  color: #ef9172;
+}
+
+.features-image:hover{
+  color: #ff4c68;
+}
+
+.features-header{
+  margin-top: 8px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.features-text{
+  color: #8f8f8f;
+  font-style: bold;
+}
+
+/* testimonials section */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef9172;
+  color: #fff;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+margin:20px;
+}
+
+/* press section */
+
+#press{
+  background-color: #ef9172;
+    text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-image{
+  width: 15%;
+  margin:20px 20px 50px;
+}
